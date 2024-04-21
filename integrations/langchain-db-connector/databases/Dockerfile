@@ -1,3 +1,4 @@
+
 # Use the official Docker Hub Postgres 14 alpine image
 FROM postgres:14-alpine
 
